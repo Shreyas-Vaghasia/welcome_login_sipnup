@@ -1,16 +1,8 @@
 # welcome_login_sipnup
 
-A new Flutter project.
+Welcome page, Login Page and Sign up page - Flutter UI
+Packages we are using:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter_svg: link
+We design 3 screens first one is a welcome screen like then user open your app it shows then users have two options, if he has an account then press the login button and it just shifts him to the login screen or if he or she don't have an account then press signup button its transfers to the signup screen.
+![UI](https://user-images.githubusercontent.com/55679485/110196405-4984b880-7e6a-11eb-9f53-31fb045e0d5b.png)
